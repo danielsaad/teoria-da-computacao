@@ -8,4 +8,4 @@ links:
     - url: /assets/aulas/conceitos-preliminares.pdf
       name: slides
 ---
--[**Leitura Recomendada**: técnicas de provas](/assets/aulas/proofs.pdf)
+-[**Leitura Recomendada**: técnicas de provas]({{ site.url }}{{ site.baseurl }}/assets/aulas/proofs.pdf)
