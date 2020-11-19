@@ -7,4 +7,4 @@ permalink: /materials/
 
 - [Provas Anteriores](/assets/provas-anteriores/provas-anteriores.zip)
 - [Software JFLAP](http://www.jflap.org/)
-- [Material sober técnicas de prova](/assets/aulas/proofs.pdf)
+- [Material sobre técnicas de prova](/assets/aulas/proofs.pdf)
