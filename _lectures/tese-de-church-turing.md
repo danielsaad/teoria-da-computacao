@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2021-01-13T0:00:00-3:00
 title: "A Tese de Church Turing"
 tldr:
 thumbnail: /static_files/presentations/tese-de-church-turing.jpg

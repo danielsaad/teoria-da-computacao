@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2021-01-06T0:00:00-3:00
 title: "Variantes de Máquinas de Turing"
 tldr:
 thumbnail: /static_files/presentations/variantes-de-maquinas-de-turing.png
