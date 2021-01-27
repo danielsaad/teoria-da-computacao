@@ -2,7 +2,7 @@
 type: assignment
 date: 2021-01-27T0:00:00-3:00
 title: 'Projeto 02: Podcast: Indecidibilidade'
-pdf: /assets/trabalhos/podcast-Indecidibilidade.pdf
+pdf: /assets/trabalhos/podcast-indecidibilidade.pdf
 attachment: 
 solutions:
 due_event: 
