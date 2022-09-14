@@ -5,6 +5,6 @@ title: "Introdução"
 tldr:
 thumbnail: /static_files/presentations/introducao.jpeg
 links: 
-    - url: /assets/aulas/introducao
+    - url: /assets/aulas/introducao.pdf
       name: slides
 ---
