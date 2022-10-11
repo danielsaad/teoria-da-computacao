@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/maquina-de-turing.png
 links: 
     - url: /assets/listas-de-exercicios/maquinas-de-turing.pdf
       name: pdf
+    - url: /assets/mt-resolvidas.zip
+      name: máquinas
 ---
