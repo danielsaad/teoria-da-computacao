@@ -1,6 +1,10 @@
 
 # Teoria da Computação 2024/2
 
+- Professor: Dr. Daniel Saad Nogueira Nunes
+- [Moodle](https://moodle.danielsaad.com)
+- [Contato](https://danielsaad.com/contato)
+
 ## [Plano de ensino](/assets/planejamento/plano-de-ensino.pdf)
 
 ## Aulas
@@ -13,9 +17,9 @@
 - [O problema da parada](assets/aulas/problema-da-parada.pdf)
 - [Redutibilidade](assets/aulas/redutibilidade.pdf)
 
-## Listas de Exercícios
+## Listas de exercícios
 
-- [Conceitos Básicos](assets/listas-de-exercicios/conceitos-basicos.pdf)
+- [Conceitos preliminares](assets/listas-de-exercicios/conceitos-basicos.pdf)
 - [A tese de Church-Turing](assets/listas-de-exercicios/tese-de-church-turing.pdf)
 - [Máquinas de Turing](assets/listas-de-exercicios/maquinas-de-turing.pdf)
 - [Indecidibilidade e o Problema da Parada](assets/listas-de-exercicios/indecidibilidade-e-o-problema-da-parada.pdf)
