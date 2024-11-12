@@ -21,8 +21,8 @@
 ## Listas de exercícios
 
 - [Conceitos preliminares](assets/listas-de-exercicios/conceitos-basicos.pdf)
-- [A tese de Church-Turing](assets/listas-de-exercicios/tese-de-church-turing.pdf)
 - [Máquinas de Turing](assets/listas-de-exercicios/maquinas-de-turing.pdf)
+- [A tese de Church-Turing](assets/listas-de-exercicios/tese-de-church-turing.pdf)
 - [Indecidibilidade e o Problema da Parada](assets/listas-de-exercicios/indecidibilidade-e-o-problema-da-parada.pdf)
 - [Redutibilidade](assets/listas-de-exercicios/redutibilidade.pdf)
 
