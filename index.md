@@ -35,5 +35,5 @@
 - [Vídeos (Pandemia)](https://www.youtube.com/playlist?list=PLmByXagFhf0OOc6QhmRQsfLt2qZ7dgfXA)
 - [Vídeos UFU - Prof. Felipe Louza](https://www.youtube.com/watch?v=fM3YNiEoQds&list=PLuARAw3cqFRBLFB9VuGbwFyh_RehmBX1c)
 
-## [Notas]()
+## [Notas](assets/notas.pdf)
 
