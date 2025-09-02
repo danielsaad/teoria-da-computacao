@@ -14,7 +14,7 @@ plugins:
 sidebar:
   - name: Home
     icon: <i class="fa-solid fa-home"></i>
-    link: https://danielsaad.com/linguagens-formais-e-automatos
+    link: https://danielsaad.com/teoria-da-computacao
   - name: Plano de Ensino
     icon: <i class="fas fa-calendar"></i>
     link: assets/planejamento/plano-de-ensino.pdf
