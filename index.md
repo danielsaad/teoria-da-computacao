@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Linguagens Formais e Autômatos
+# Teoria da Computação
 
 - Professor: Dr. Daniel Saad Nogueira Nunes
 - Carga-horária: 72 horas-aula
