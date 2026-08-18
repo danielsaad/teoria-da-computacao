@@ -4,3 +4,4 @@ _site
 *.lock
 _assignments/dummy_assignment.md
 src/
+src
